@@ -15,6 +15,7 @@ export const ListContainer = styled.div`
 `
 
 export const ItemContainer = styled.div`
+	padding: 15px;
 	margin-top: 16px;
 	border-radius: 8px;
 	background: white;
